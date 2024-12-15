@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vectorete/wordle-game">
+  <a href="https://github.com/victorkvor/wordle-game">
     <img src="images/logo.png" alt="Logo" width="30%">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
 The project is about a Java-based Wordle game that adopts a Model-View-Controller (MVC) architecture. The game consists of two players: Player 1 who selects the word, and Player 2 who tries to guess the word within a particular amount of attempts. The game has a ranking system, a celebratory or encouragement message at the end of a try, and allows navigation between windows through the menu.
     <br />
-    <a href="https://github.com/vectorete/wordle-game"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorkvor/wordle-game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vectorete/wordle-game">View Demo</a>
+    <a href="https://github.com/victorkvor/wordle-game">View Demo</a>
     ·
-    <a href="https://github.com/vectorete/wordle-game/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/victorkvor/wordle-game/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/vectorete/wordle-game/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/victorkvor/wordle-game/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -66,7 +66,7 @@ The project is about a Java-based Wordle game that adopts a Model-View-Controlle
 ## 🔎 About The Project <a id="about-the-project"></a>
 
 <div align="center">
-  <a href="https://github.com/vectorete/wordle-game">
+  <a href="https://github.com/victorkvor/wordle-game">
     <img src="images/projectimg.png" alt="Project" width="50%">
   </a>
 </div>
@@ -194,22 +194,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Victor Kravchuk Vorkevych - victorkravchuk19@gmail.com
 
-Project Link: [https://github.com/vectorete/wordle-game](https://github.com/vectorete/wordle-game)
+Project Link: [https://github.com/victorkvor/wordle-game](https://github.com/victorkvor/wordle-game)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vectorete/wordle-game.svg?style=for-the-badge
-[contributors-url]: https://github.com/vectorete/wordle-game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vectorete/wordle-game.svg?style=for-the-badge
-[forks-url]: https://github.com/vectorete/wordle-game/network/members
-[stars-shield]: https://img.shields.io/github/stars/vectorete/wordle-game.svg?style=for-the-badge
-[stars-url]: https://github.com/vectorete/wordle-game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vectorete/wordle-game.svg?style=for-the-badge
-[issues-url]: https://github.com/vectorete/wordle-game/issues
-[license-shield]: https://img.shields.io/github/license/vectorete/wordle-game.svg?style=for-the-badge
-[license-url]: https://github.com/vectorete/wordle-game/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorkvor/wordle-game.svg?style=for-the-badge
+[contributors-url]: https://github.com/victorkvor/wordle-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorkvor/wordle-game.svg?style=for-the-badge
+[forks-url]: https://github.com/victorkvor/wordle-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorkvor/wordle-game.svg?style=for-the-badge
+[stars-url]: https://github.com/victorkvor/wordle-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorkvor/wordle-game.svg?style=for-the-badge
+[issues-url]: https://github.com/victorkvor/wordle-game/issues
+[license-shield]: https://img.shields.io/github/license/victorkvor/wordle-game.svg?style=for-the-badge
+[license-url]: https://github.com/victorkvor/wordle-game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/victorkvor
 [product-project]: images/projectimg.png
